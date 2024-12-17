@@ -1,7 +1,7 @@
 # crud-react-node-mysql
 crud react node mysql
 
-
+(ลบ folder client)
 ## React
 - npx create-react-app client
 - cd client
@@ -10,6 +10,8 @@ crud react node mysql
 - npm install web-vitals
 ### Axios
 - npm install axios
+
+(เพิ่ม Css Bootstrap ที่ index.html)
 
 (Start: npm start)
 

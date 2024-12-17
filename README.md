@@ -10,10 +10,13 @@ crud react node mysql
 - npm install web-vitals
 ### Axios
 - npm install axios
+(Start: npm start)
 
 ## Node.js
-- npm init -y
-#### Express
-- npm install express
+- npm init
+#### MySQL & Express
+- npm i mysql cors express
 ### Nodemon
-- npm install -g nodemon
+- npm i nodemon
+(packge.json -> "script": {เพิ่ม "dev": "nodemon index"})
+(Start: npm run dev)
